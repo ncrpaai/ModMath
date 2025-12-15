@@ -1,3 +1,6 @@
+// Name : Nicharee Surakavanichakorn
+// ID : 68070503423
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "menu.h"
@@ -98,3 +101,4 @@ void displayMainMenu(const char *username) {
         }
     }
 }
+
